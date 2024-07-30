@@ -27,7 +27,7 @@ export PYTHONPATH=$(pwd)
 
 В Windows:
 ```cmd
-set FLASK_APP=__init__.py
+set FLASK_APP=main.py
 ```
 Для добавления записей
 - Откройте оболочку Flask:
